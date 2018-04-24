@@ -2,4 +2,4 @@
 Python_project
 *.pyc
 .DS_Store
-
+*.csv
