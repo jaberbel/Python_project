@@ -47,3 +47,6 @@ You can see now if you type `git status` that we are on that branch.
 5. Commit  `git commit -m " adding this modified document to the new branch and not merging it to the master just so everyone in the team can see and agree on it"`
 6. pushing the modified document to the branch `git push origin hello_world.py`
 
+
+## Resolving conflicts
+1. always a good idea to start with `git status`
