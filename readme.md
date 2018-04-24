@@ -1,4 +1,4 @@
-Basic steps to create and update a Git workflow in Python
+##Basic steps to create and update a Git workflow in Python
 
 
 **Starting a new project**
@@ -19,5 +19,5 @@ Basic steps to create and update a Git workflow in Python
 2. Add files (snapshot) to local repo: `git commit -m "commit message"`
 3. Now push your local repo to Github: `git push origin master`
 
-## Markdown tips
+## Markdown Cheatsheet
 [tips] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
