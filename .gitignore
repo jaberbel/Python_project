@@ -1,4 +1,5 @@
-.DS_Store
-.project
+
+Python_project
 *.pyc
-*.csv
+.DS_Store
+
